@@ -1,6 +1,4 @@
 # ✅ Python Script: separate_numbers.py
-from dbm import error
-
 try:
     # ইনপুট ফাইলের নাম
     input_file = "msisdn.txt"
